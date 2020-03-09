@@ -10,11 +10,15 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="MaxPointsParticipants" target="1.7" />
+      <module name="MaxPointsParticipants" target="1.6" />
     </bytecodeTargetLevel>
   </component>
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+  </component>
+  <component name="ExternalDependencies">
+    <plugin id="JUnit" />
+    <plugin id="org.jetbrains.idea.maven" />
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="InspectionProjectProfileManager">
@@ -37,6 +41,9 @@
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="libraryTable">
     <library name="Maven: junit:junit:4.11">
